@@ -36,7 +36,7 @@
 
 - rm -rf 
 
-  (Outros Comandos serve Também)
+  (Outros Comandos como cd e mkdir serve Também)
 
 ## LS 
 
